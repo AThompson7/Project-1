@@ -5,7 +5,7 @@ As of 2020, 6.7 million people reside in Victoria, Australia's second most popul
 # Project structure
 ```
 Project-1
-|__ Resources/              # contains answer images
+|__ Images/              # contains answer images
 |   |__ answer1.png         # image answer 1
 |   |__ answer2.png         # image answer 2
 |   |__ answer3.png         # image answer 3
