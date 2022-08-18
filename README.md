@@ -89,7 +89,7 @@ We can conclude that Covid did not impact the average electricity consumption in
 ![chart](Images/conclusion.png)
 
 The most significant impact on electricity demand we found was temperature. Factors like price and solar exposure had minor effects, with solar exposure likely to become more critical in the future when solar panels are more common. 
-We can see that during the winter months (June - August) when Victoria has the lowest temperatures, the average electricity demand for the corresponding months is higher. Victoria's summer averages maximum temperature is only 25 degrees Celsius.
+We can see that during the winter months (June - August) when Victoria has the lowest temperatures, the average electricity demand for the corresponding months is higher. Victoria's summer average maximum temperature is only 25 degrees Celsius which is why we do not see peaks during summer. If we conducted this experiment in Western Australia where average max temperatures can be closer to 35 Celsius, we would see peaks during both summer and winter.
 
 # Contributors
 - [@AThompson7](https://github.com/AThompson7)
