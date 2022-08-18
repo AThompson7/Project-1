@@ -5,12 +5,14 @@ As of 2020, 6.7 million people reside in Victoria, Australia's second most popul
 # Project structure
 ```
 Project-1
+|
 |__ Images/              # contains answer images
 |   |__ answer1.png         # image answer 1
 |   |__ answer2.png         # image answer 2
 |   |__ answer3.png         # image answer 3
 |   |__ answer4.png         # image answer 4
 |   |__ answer5.png         # image answer 5
+|   |__ conclusion.png      # image conclusion
 |
 |__ Resources/               # contains raw data
 |   |__ complete_dataset.csv         # raw data
@@ -81,6 +83,13 @@ We can expect that as the uptake of solar panels increases, the difference in el
 
 The demand is very similar yearly from 2015 to 2020, even with Covid in 2020. Each year has similar peaks during the winter months (June - August). Some very brief spikes in the summer months are likely on the occurrence of very hot days close to 40 degrees Celsius. The average demand each year from 2015 to 2020 is very similar. 
 We can conclude that Covid did not impact the average electricity consumption in 2020, even with the significant lifestyle changes from working from home. Residents increase their demand for electricity at home, but businesses can decrease their demand since offices are closed.
+
+### Conclusion
+
+![chart](Images/conclusion.png)
+
+The most significant impact on electricity demand we found was temperature. Factors like price and solar exposure had minor effects, with solar exposure likely to become more critical in the future when solar panels are more common. 
+We can see that during the winter months (June - August) when Victoria has the lowest temperatures, the average electricity demand for the corresponding months is higher. Victoria's summer averages maximum temperature is only 25 degrees Celsius.
 
 # Contributors
 - [@AThompson7](https://github.com/AThompson7)
